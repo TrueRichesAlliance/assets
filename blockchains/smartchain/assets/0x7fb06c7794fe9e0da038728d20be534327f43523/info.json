@@ -1,1 +1,10 @@
-
+{
+    "name": "True Riches Alliance",
+    "type": "BEP20",
+    "symbol": "TRA",
+    "decimals": 18,
+    "description": "True Riches Alliance (TRA) is a gold-backed digital asset project.",
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x7fb06c7794fe9e0da038728d20be534327f43523",
+    "status": "active",
+    "id": "0x7fb06c7794fe9e0da038728d20be534327f43523"
